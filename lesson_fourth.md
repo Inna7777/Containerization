@@ -1,6 +1,4 @@
-### Создаем файл с программой python.
-![Alt text](<file_python.jpg>)
-
+ 
 ### Создаем Dockerfile.
 ![Alt text](<dockerfile.jpg>)
 
